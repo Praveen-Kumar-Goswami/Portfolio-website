@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     background-size: cover;
     color: rgb(255, 255, 255);
-    background: url('background.jpg') repeat center center fixed;
+    background: url('/assets/images/background.jpg') repeat center center fixed;
 
 }
 
